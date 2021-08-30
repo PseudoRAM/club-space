@@ -151,8 +151,6 @@ pip install flask
 ## ✍️ Contributors <a name = "contributors"></a>
 
   
-
-- [@John]()
 - [@Henry]()
-- [@Ben]()
+- [@Ben](https://github.com/PseudoRAM/)
 - [@BowinJH](https://github.com/BowinJH)
